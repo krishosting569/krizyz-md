@@ -15,7 +15,7 @@ global.pulsa = '0882007324217'
 global.gopay = '628######'
 
 //『 Info Bot 』//
-global.namebot = 'R-txzyMd'
+global.namebot = 'Krizyz'
 global.gc = 'https://chat.whatsapp.com/DVXcTEbiIutBZb9FxA85rk'
 global.web = 'https://krishostingckm.my.i' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
